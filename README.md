@@ -1,6 +1,6 @@
 # MiFID II Delta Check Engine — State Machine Design
 
-Publicis Sapient | 2026
+> ANZ Bank London Branch | Publicis Sapient | 2026
 
 ## Overview
 
